@@ -104,3 +104,7 @@ InitTestScene*.unity*
 .claude/
 .serena/
 claude.md
+
+# API Key (ScriptableObject)
+**/ApiConfig.asset
+**/ApiConfig.asset.meta
